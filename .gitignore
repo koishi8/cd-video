@@ -1,0 +1,9 @@
+__pycache__/
+.build-deps/
+.pack-env/
+.venv/
+build/
+*.log
+acceptance/
+dist/
+release/
